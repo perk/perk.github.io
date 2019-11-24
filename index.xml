@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marcin Stożek &#34;Perk&#34;</title>
+    <link>https://perk.pl/</link>
+    <description>Recent content on Marcin Stożek &#34;Perk&#34;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://perk.pl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
